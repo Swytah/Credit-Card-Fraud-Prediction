@@ -6,7 +6,7 @@ It combines **exploratory data analysis, feature scaling, class imbalance handli
 ---
 
 ## 📂 Dataset Overview
-**Source:** Credit Card Fraud Detection Dataset  
+**Source:** Credit Card Fraud Detection Dataset. Link:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 **Transactions:** 280,000+ anonymized card transactions  
 
 **Key Features:**
